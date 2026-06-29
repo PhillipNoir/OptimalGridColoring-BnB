@@ -1,0 +1,5 @@
+<map id="SearchState" name="SearchState">
+<area shape="rect" id="Node000001" title="Encapsulates the entire current context of the search, including the grid state, color tallies,..." alt="" coords="11,403,129,515"/>
+<area shape="rect" id="Node000002" href="$classGrid1D.html" title="Represents the grid as a 1D vector." alt="" coords="5,5,134,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,307,72,386,67,385,69,312"/>
+</map>

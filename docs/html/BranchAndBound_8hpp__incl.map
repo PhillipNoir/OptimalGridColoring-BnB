@@ -1,0 +1,12 @@
+<map id="include/GridColoring/BranchAndBound.hpp" name="include/GridColoring/BranchAndBound.hpp">
+<area shape="rect" id="Node000001" title="Core algorithm implementation combining DFS, heuristics, and mathematical pruning." alt="" coords="5,5,157,48"/>
+<area shape="rect" id="Node000002" href="$GraphDefinition_8hpp.html" title="Defines the graph structure for the grid coloring problem." alt="" coords="47,96,259,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,46,134,84,129,85,99,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="12,171,70,197"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="61,51,49,72,37,97,33,127,37,156,31,156,28,127,32,95,44,69,63,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,123,75,164,72,160,131,123"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="110,171,162,197"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="152,121,144,157,140,154,148,125"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="186,171,238,197"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="164,121,195,159,189,158,162,126"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="include/GridColoring/GraphDefinition.hpp" name="include/GridColoring/GraphDefinition.hpp">
+<area shape="rect" id="Node000001" title="Defines the graph structure for the grid coloring problem." alt="" coords="42,5,183,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,63,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,47,59,86,55,83,90,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="86,96,139,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,47,115,81,110,79,111,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="162,96,215,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,46,169,84,164,85,131,51"/>
+</map>

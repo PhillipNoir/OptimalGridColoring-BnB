@@ -1,0 +1,9 @@
+<map id="include/GridColoring/GraphDefinition.hpp" name="include/GridColoring/GraphDefinition.hpp">
+<area shape="rect" id="Node000001" title="Defines the graph structure for the grid coloring problem." alt="" coords="109,5,250,48"/>
+<area shape="rect" id="Node000002" href="$BranchAndBound_8hpp.html" title="Core algorithm implementation combining DFS, heuristics, and mathematical pruning." alt="" coords="14,96,166,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,61,113,98,109,94,150,57"/>
+<area shape="rect" id="Node000004" href="$GraphDefinition_8cpp.html" title="Implementation of the graph structure for the grid coloring problem." alt="" coords="190,104,348,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,56,259,103,253,104,210,62"/>
+<area shape="rect" id="Node000003" href="$BranchAndBound_8cpp.html" title="Implementation of the Branch and Bound algorithm." alt="" coords="5,187,175,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,153,92,187,88,185,88,156"/>
+</map>
