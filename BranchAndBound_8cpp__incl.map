@@ -1,0 +1,22 @@
+<map id="src/BranchAndBound.cpp" name="src/BranchAndBound.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the Branch and Bound algorithm." alt="" coords="396,5,579,31"/>
+<area shape="rect" id="Node000002" href="$BranchAndBound_8hpp.html" title="Core algorithm implementation combining DFS, heuristics, and mathematical pruning." alt="" coords="5,79,252,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,33,201,79,200,73,429,28"/>
+<area shape="rect" id="Node000007" href="$BoundCalculations_8hpp.html" title="Mathematical heuristics and bounding functions for the Branch and Bound algorithm." alt="" coords="277,79,533,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="476,33,430,72,427,67,472,29"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="467,152,553,177"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="506,29,528,49,547,78,550,95,547,112,531,143,527,140,542,111,545,95,542,80,524,53,502,33"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="607,79,682,104"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="514,28,608,71,606,75,512,33"/>
+<area shape="rect" id="Node000003" href="$GraphDefinition_8hpp.html" title="Defines the graph structure for the grid coloring problem." alt="" coords="10,152,247,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,104,131,138,126,138,126,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="253,225,316,251"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="179,102,222,120,243,133,261,150,278,180,285,210,280,212,273,182,257,154,240,138,220,125,177,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,175,248,217,246,222,153,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="51,225,110,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="123,179,98,216,94,213,119,176"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="135,225,195,251"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="137,176,155,212,150,214,132,179"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="397,106,305,216,301,213,393,103"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="423,102,483,142,480,147,420,106"/>
+</map>
