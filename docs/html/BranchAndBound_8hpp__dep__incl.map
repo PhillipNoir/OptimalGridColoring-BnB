@@ -1,5 +1,0 @@
-<map id="include/GridColoring/BranchAndBound.hpp" name="include/GridColoring/BranchAndBound.hpp">
-<area shape="rect" id="Node000001" title="Core algorithm implementation combining DFS, heuristics, and mathematical pruning." alt="" coords="14,5,166,48"/>
-<area shape="rect" id="Node000002" href="$BranchAndBound_8cpp.html" title="Implementation of the Branch and Bound algorithm." alt="" coords="5,96,175,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,62,92,96,88,94,88,66"/>
-</map>

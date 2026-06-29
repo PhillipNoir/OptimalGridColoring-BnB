@@ -1,7 +1,0 @@
-<map id="include/GridColoring/BoundCalculations.hpp" name="include/GridColoring/BoundCalculations.hpp">
-<area shape="rect" id="Node000001" title="Mathematical heuristics and bounding functions for the Branch and Bound algorithm." alt="" coords="113,5,272,48"/>
-<area shape="rect" id="Node000002" href="$BoundCalculations_8cpp.html" title="Implementation of the bounding math using pure integer arithmetic." alt="" coords="5,96,183,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,57,111,98,108,93,153,59"/>
-<area shape="rect" id="Node000003" href="$BranchAndBound_8cpp.html" title="Implementation of the Branch and Bound algorithm." alt="" coords="207,96,376,123"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,56,279,96,273,95,229,61"/>
-</map>
